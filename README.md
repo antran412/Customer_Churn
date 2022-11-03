@@ -1,4 +1,4 @@
-Telecom Customer Churn
+**Telecom Customer Churn**
 Maven Telecom is a telecommunication company that provides phone and internet servies to 7,043 customers in California. Data from Q2 suggests that customer churn has become a serious concern, in this analysis, with the available data about customer demographucs, location, services and current status, our purpose is to identify:
 1. The importance of churn customers on company's performance in general and total revenue and monthly charge in particular
 2. Factors can be the key drivers of customer churn
@@ -6,11 +6,11 @@ Maven Telecom is a telecommunication company that provides phone and internet se
 
 This analysis will be used to suggest some approaches to reduce the customer churn rate.
 
-1. The importance of churn customers on company's performace
+## **1. The importance of churn customers on company's performace**
 We will be looking at churn by revenue. Even though there are more than one KPIs when it comes to revenue: Total lifetime revenue, monthly charge, and average monthy revenue, we will use total revenue to evaluate the value of customers. The customers who churned contributed about 17% of the total revenue of company, which is significant.
 
-2. Factors can be the key drivers of customer churn
-2.1 Services that company provided.
+## **2. Factors can be the key drivers of customer churn**
+### **2.1 Services that company provided.**
 Each customer has different customer profile in terms of services that he/she subscribes. Telecom is currently offering 12 serivices. They are: Phone service, Multiple Lines, Internet Service, Internet Type, Online Security, online Backup, Decive Protection Plan, Premium Tech Support, Streaming TV, Streaming Movies, Streaming Music, Unlimited Data.
 
 From the first analysis of datasets, online security, online back up, device protection and premium tech support have correlated relationship with customer status. To be more precise, customers who don't subscribe to these services tend to stop using company's services after a period of time. Although other services seem to have relationship with customer status, however, it is weak and may not be considered factors affecting churning decision of customers.
