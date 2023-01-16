@@ -52,5 +52,5 @@ The analysis of company's offers to keep customers stay and convert them to high
 ## **5. Machine Learning Model to preduct customer who is about to churn**
 There are thress models built to predict customers who are about to churn to have the appropriate responses: logistics regression, random forest and neural network. The lowest error is kept as low as 0.168. Models can be improved by increasing data and related features
 
-## **6. Model Productionization
+## **6. Model Productionization**
 The last step is deploying the most accurate model to predict customer's churn decision. 
